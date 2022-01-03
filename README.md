@@ -1,4 +1,4 @@
-## Author: github.com/Deadman247
+## Author: github.com/D3ADVAU
 ### Don't copy this code without my credits!
 
 # BruteForce
@@ -8,7 +8,7 @@ bruteforce attack on facebook account script in python
 
 ```
 
-git clone https://github.com/Deadman247/Brute
+git clone https://github.com/D3ADVAU/Brute
 
 cd Brute
 
